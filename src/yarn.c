@@ -28,6 +28,7 @@
 
 /* use large file functions if available */
 #define _FILE_OFFSET_BITS 64
+#define _LARGE_FILES 
 
 /* external libraries and entities referenced */
 #include <stdio.h>      /* fprintf(), stderr */
